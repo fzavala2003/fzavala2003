@@ -19,4 +19,4 @@ https://github.com/paulettemal/TresEnRaya.git
 > **Houzz social network Scraper:**
 https://github.com/fzavala2003/houzz-scraper_Social.git
 
-**Descripcion:** Proyecto realizado con la finalidad de entrar al club kokoa. El objetivo fue crear un scraper que permita obtener los datos de los usuarios de la red social Houzz de la seccion de interior designers. El proyecto fue realizado en python y se utilizo la libreria scrapy para el scraping. Se utilizo la libreria pandas para el manejo de los datos y se guardaron en un archivo csv.
+**Descripcion:** Proyecto realizado con la finalidad de entrar al club kokoa. El objetivo fue crear un scraper que permita obtener los datos de los usuarios de la red social Houzz de la seccion de interior designers. El proyecto fue realizado en python y se utilizo la libreria scrapy para el scraping. Se utilizo la libreria pandas para el manejo de los datos y se guardaron en un archivo csv.Holaa.
