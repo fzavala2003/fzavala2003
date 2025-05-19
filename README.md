@@ -38,19 +38,19 @@ Aquí te presento algunos de los proyectos que he desarrollado:
 
 
 ### 1. 🍧 **Proyecto POO heladeria con javafx:**  
-- **Descripción:** Proyecto realizado en el curso de programacion orientada objetos impartido por la profesora Verónica Duarte. El objetivo fue crear una aplicacion que permita al usuario hacer un pedido de helado utilizando javafx donde se puede elegir la base, los sabores y los toppings. La idea es seccionar las diferentes partes del proyectos en clases y aplicar herencia, utilizar interfaces y excepciones.
+- **Descripción:** Proyecto realizado en el curso de Programación Orientada a Objetos, impartido por la profesora Verónica Duarte. El objetivo fue crear una aplicación que permita al usuario hacer un pedido de helado utilizando JavaFX, donde se puede elegir la base, los sabores y los toppings. La idea es seccionar las diferentes partes del proyecto en clases y aplicar herencia, utilizar interfaces y manejar excepciones.
 - **Tecnologías utilizadas:** Java, JavaFX, CSS.  
 - [🔗 Repositorio](https://github.com/NLindao2004/POO4_PROY2P_Lindao_Salinas_Zavala.git)
 
 ### 2. 🎮 **Tres en raya, utilizando arboles y estructuras lineales**  
-- **Descripción:** Proyecto realizado en el curso de estructura de datos impartido por la profesora Adriana Collaguazo. El objetivo fue crear el juego tres en raya utilizando arboles multicaminos y estructuras lineales. El juego permite jugar contra la computadora o otro jugador. Se utilizo el algoritmo minimax para que la computadora pueda jugar de manera optima. El proyecto fue realizado en java y se utilizo la libreria javaFX para la interfaz grafica.
+- **Descripción:** Proyecto realizado en el curso de Estructura de Datos, impartido por la profesora Adriana Collaguazo. El objetivo fue crear el juego Tres en Raya utilizando árboles multicaminos y estructuras lineales. El juego permite jugar contra la computadora o contra otro jugador. Se utilizó el algoritmo Minimax para que la computadora pueda jugar de manera óptima. El proyecto fue desarrollado en Java y se utilizó la librería JavaFX para la interfaz gráfica.
 
 - **Tecnologías utilizadas:** Java, JavaFX.  
 - [🔗 Repositorio](https://github.com/paulettemal/TresEnRaya.git)
 
 
 ### 3. 🪞 **Houzz social network Scraper**  
-- **Descripción:** Proyecto realizado con la finalidad de entrar al club kokoa. El objetivo fue crear un scraper que permita obtener los datos de los usuarios de la red social Houzz de la seccion de interior designers. El proyecto fue realizado en python y se utilizo la libreria scrapy para el scraping. Se utilizo la libreria pandas para el manejo de los datos y se guardaron en un archivo csv.
+- **Descripción:** Proyecto realizado con la finalidad de ingresar al club Kokoa. El objetivo fue crear un scraper que permita obtener los datos de los usuarios de la red social Houzz, específicamente de la sección de interior designers. El proyecto fue desarrollado en Python y se utilizó la librería Scrapy para el proceso de scraping. También se empleó la librería Pandas para el manejo de los datos, los cuales fueron almacenados en un archivo CSV.
 - **Tecnologías utilizadas:** Python, Scrapy, BeautifulSoup.  
 - [🔗 Repositorio](https://github.com/fzavala2003/houzz-scraper_Social.git)
 
@@ -70,7 +70,7 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado:
 
 
 ## 📞 **Contáctame**  
-- 📧 **Correo:** [dfzavala@espol.edu.ec](mailto:dquishpe@espol.edu.ec)  
+- 📧 **Correo:** [dfzavala@espol.edu.ec](mailto:dfzavala@espol.edu.ec)  
 - 💼 **LinkedIn:** ["https://www.linkedin.com/in/daniel-zavala-a13b3623a/"](https://www.linkedin.com/in/daniel-zavala-a13b3623a/)  
 
 <br>
