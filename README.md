@@ -50,8 +50,8 @@ Aquí te presento algunos de los proyectos que he desarrollado:
 
 
 ### 3. 🪞 **Houzz social network Scraper**  
-- **Descripción:** Este proyecto consiste en crear una landing page interactiva para una tienda de libros, con secciones para nuevos lanzamientos y géneros destacados. Utiliza HTML, CSS y Bootstrap para un diseño responsivo, JavaScript para interactividad, y Firebase para gestionar datos en tiempo real, ofreciendo una experiencia moderna y atractiva para los amantes de la lectura.
-- **Tecnologías utilizadas:** JavaScript, Bootstrap, Firebase, HTML, CSS.  
+- **Descripción:** Proyecto realizado con la finalidad de entrar al club kokoa. El objetivo fue crear un scraper que permita obtener los datos de los usuarios de la red social Houzz de la seccion de interior designers. El proyecto fue realizado en python y se utilizo la libreria scrapy para el scraping. Se utilizo la libreria pandas para el manejo de los datos y se guardaron en un archivo csv.
+- **Tecnologías utilizadas:** Python, Scrapy, BeautifulSoup.  
 - [🔗 Repositorio](https://github.com/fzavala2003/houzz-scraper_Social.git)
 
 
