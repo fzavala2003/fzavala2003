@@ -80,5 +80,5 @@ Estas son algunas de las herramientas y tecnologías con las que he trabajado:
 <h3 >  
 ✨ "¡Funciona en mi máquina!",Todos los programadores, alguna vez. ✨  
 
-</h3>
+</h2>
 </div>
